@@ -13,6 +13,7 @@ This folder is orgarnized as follows.
 proj/
 ├── algorithm analysis/
 ├── data/
+├── scraper/
 └── final script/
 ```
 
@@ -32,3 +33,7 @@ proj/
 <strong> final script </strong>
 - productanalysis.ipynb (Final version)
 - plot.py
+
+<strong> scraper </strong>
+- Extractinfo.ipynb (Final version)
+
