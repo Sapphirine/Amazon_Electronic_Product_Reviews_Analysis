@@ -16,6 +16,8 @@ proj/
 ├── scraper/
 └── final script/
 ```
+If you want to run the final version of script locally, please download all scripts and data to the bin folder under pyspark. Run the productanalysis.ipynb on notebook connected to the pyspark
+
 
 <strong> algorithm analysis</strong>
 - feature_extraction_comparison.ipynb
